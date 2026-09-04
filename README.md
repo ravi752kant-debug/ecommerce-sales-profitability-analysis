@@ -333,7 +333,7 @@ jupyter notebook
 ### 5. Open
 
 ```text
-ecommerce_sales_portfolio_final.ipynb
+ecommerce_sales_profitability_analysis.ipynb
 ```
 
 Make sure the dataset is located in the expected project directory before running the notebook.
