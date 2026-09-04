@@ -1,4 +1,4 @@
-# E-commerce Sales & Profitability Analysis 
+# E-commerce Sales & Profitability Analysis 📊
 
 ## Project Overview
 
@@ -21,7 +21,7 @@ The analysis aims to answer important business questions such as:
 - Are there low-margin orders that should be investigated?
 - What business recommendations can be made from the analysis?
 
-##Dataset
+## &#x20;Dataset
 
 The dataset contains:
 
@@ -209,7 +209,7 @@ However, the differences between payment methods were relatively modest, suggest
 
 ---
 
-### Low-Margin Orders & Outlier Analysis
+### &#x20;Low-Margin Orders & Outlier Analysis
 
 The project used an **IQR-based statistical outlier check** to identify extreme profit-margin values.
 
@@ -290,6 +290,55 @@ This project demonstrates my ability to:
 - Convert analysis findings into recommendations
 - Communicate analytical results clearly
 
+---
+
+## Project Structure
+
+```text
+ecommerce-sales-profitability-analysis/
+│
+├── ecommerce_sales_portfolio_final.ipynb
+├── ecommerce_sales.csv
+└── README.md
+```
+
+---
+
+## How to Run the Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/ecommerce-sales-profitability-analysis.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd ecommerce-sales-profitability-analysis
+```
+
+### 3. Install required libraries
+
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+```
+
+### 4. Start Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+### 5. Open
+
+```text
+ecommerce_sales_portfolio_final.ipynb
+```
+
+Make sure the dataset is located in the expected project directory before running the notebook.
+
+---
 
 ## Limitations
 
