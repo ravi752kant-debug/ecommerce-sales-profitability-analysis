@@ -297,8 +297,8 @@ This project demonstrates my ability to:
 ```text
 ecommerce-sales-profitability-analysis/
 │
-├── ecommerce_sales_portfolio_final.ipynb
-├── ecommerce_sales.csv
+├── Ecommerce_Sales_Data_2023_2025.csv
+├── README.md
 └── README.md
 ```
 
