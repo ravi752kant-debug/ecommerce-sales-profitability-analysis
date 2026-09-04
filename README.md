@@ -299,7 +299,7 @@ ecommerce-sales-profitability-analysis/
 │
 ├── Ecommerce_Sales_Data_2023_2025.csv
 ├── README.md
-└── README.md
+└── ecommerce_sales_profitability_analysis.ipynb
 ```
 
 ---
@@ -309,7 +309,7 @@ ecommerce-sales-profitability-analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ecommerce-sales-profitability-analysis.git
+git clone https://github.com/ravi752kant-debug/ecommerce-sales-profitability-analysis.git
 ```
 
 ### 2. Navigate to the project
